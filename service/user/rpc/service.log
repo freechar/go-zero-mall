@@ -1,0 +1,229 @@
+Starting rpc server at 0.0.0.0:9000...
+{"@timestamp":"2022-03-13T21:49:33.827+08","level":"info","content":"Starting prometheus agent at 0.0.0.0:9090"}
+{"@timestamp":"2022-03-13T21:49:46.909+08","level":"info","duration":"85.3ms","content":"172.18.0.6:60824 - /userclient.User/Login - {\"Mobile\":\"1122\",\"Password\":\"dfsdfds\"}","trace":"cffb91fefa5c7ffc0cf54ea753b8596f","span":"1c23a0d974e512b2"}
+{"@timestamp":"2022-03-13T21:49:53.242+08","level":"info","duration":"81.2ms","content":"172.18.0.6:60824 - /userclient.User/Login - {\"Mobile\":\"1122\",\"Password\":\"dfsdfds\"}","trace":"e32a17e4c6fc396e11333f44ee74fe94","span":"62e1088a87af77e0"}
+{"@timestamp":"2022-03-13T21:50:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.9Mi, TotalAlloc=76.1Mi, Sys=86.9Mi, NumGC=6"}
+{"@timestamp":"2022-03-13T21:50:33.826+08","level":"stat","content":"dbcache(sqlc) - qpm: 4, hit_ratio: 100.0%, hit: 4, miss: 0, db_fails: 0"}
+{"@timestamp":"2022-03-13T21:50:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 2, pass: 2, drop: 0"}
+{"@timestamp":"2022-03-13T21:50:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 83.0ms, med: 85.3ms, 90th: 85.3ms, 99th: 85.3ms, 99.9th: 85.3ms"}
+{"@timestamp":"2022-03-13T21:51:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.6Mi, TotalAlloc=80.2Mi, Sys=86.9Mi, NumGC=7"}
+{"@timestamp":"2022-03-13T21:51:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T21:51:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T21:52:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=12.1Mi, TotalAlloc=82.7Mi, Sys=87.1Mi, NumGC=7"}
+{"@timestamp":"2022-03-13T21:52:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T21:52:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T21:53:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.7Mi, TotalAlloc=85.9Mi, Sys=87.1Mi, NumGC=8"}
+{"@timestamp":"2022-03-13T21:53:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T21:53:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T21:54:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=7.6Mi, TotalAlloc=89.1Mi, Sys=87.1Mi, NumGC=9"}
+{"@timestamp":"2022-03-13T21:54:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T21:54:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T21:55:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.3Mi, TotalAlloc=90.9Mi, Sys=87.1Mi, NumGC=9"}
+{"@timestamp":"2022-03-13T21:55:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T21:55:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T21:56:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.1Mi, TotalAlloc=92.7Mi, Sys=87.1Mi, NumGC=10"}
+{"@timestamp":"2022-03-13T21:56:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T21:56:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T21:57:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=7.7Mi, TotalAlloc=94.4Mi, Sys=87.1Mi, NumGC=10"}
+{"@timestamp":"2022-03-13T21:57:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T21:57:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T21:58:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.9Mi, TotalAlloc=96.9Mi, Sys=87.1Mi, NumGC=11"}
+{"@timestamp":"2022-03-13T21:58:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T21:58:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T21:59:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.6Mi, TotalAlloc=98.6Mi, Sys=87.1Mi, NumGC=11"}
+{"@timestamp":"2022-03-13T21:59:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T21:59:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:00:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.9Mi, TotalAlloc=100.3Mi, Sys=87.1Mi, NumGC=12"}
+{"@timestamp":"2022-03-13T22:00:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:00:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:01:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.6Mi, TotalAlloc=102.0Mi, Sys=87.1Mi, NumGC=12"}
+{"@timestamp":"2022-03-13T22:01:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:01:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:02:33.818+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.9Mi, TotalAlloc=104.6Mi, Sys=87.1Mi, NumGC=13"}
+{"@timestamp":"2022-03-13T22:02:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:02:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:03:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=10.9Mi, TotalAlloc=108.6Mi, Sys=87.1Mi, NumGC=13"}
+{"@timestamp":"2022-03-13T22:03:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:03:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:04:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=7.3Mi, TotalAlloc=111.1Mi, Sys=87.1Mi, NumGC=14"}
+{"@timestamp":"2022-03-13T22:04:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:04:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:05:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.9Mi, TotalAlloc=112.8Mi, Sys=87.1Mi, NumGC=14"}
+{"@timestamp":"2022-03-13T22:05:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:05:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:06:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=7.3Mi, TotalAlloc=114.5Mi, Sys=87.1Mi, NumGC=15"}
+{"@timestamp":"2022-03-13T22:06:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:06:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:07:33.818+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.0Mi, TotalAlloc=116.2Mi, Sys=87.1Mi, NumGC=15"}
+{"@timestamp":"2022-03-13T22:07:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:07:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:08:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=7.3Mi, TotalAlloc=118.7Mi, Sys=87.1Mi, NumGC=16"}
+{"@timestamp":"2022-03-13T22:08:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:08:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:09:33.818+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=10.5Mi, TotalAlloc=121.9Mi, Sys=87.1Mi, NumGC=16"}
+{"@timestamp":"2022-03-13T22:09:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:09:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:10:33.818+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.5Mi, TotalAlloc=125.2Mi, Sys=87.1Mi, NumGC=17"}
+{"@timestamp":"2022-03-13T22:10:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:10:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:11:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=10.2Mi, TotalAlloc=126.9Mi, Sys=87.1Mi, NumGC=17"}
+{"@timestamp":"2022-03-13T22:11:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:11:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:12:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=7.7Mi, TotalAlloc=129.3Mi, Sys=87.1Mi, NumGC=18"}
+{"@timestamp":"2022-03-13T22:12:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:12:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:13:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.4Mi, TotalAlloc=131.0Mi, Sys=87.1Mi, NumGC=18"}
+{"@timestamp":"2022-03-13T22:13:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:13:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:14:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=7.8Mi, TotalAlloc=132.8Mi, Sys=87.1Mi, NumGC=19"}
+{"@timestamp":"2022-03-13T22:14:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:14:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:15:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.4Mi, TotalAlloc=134.5Mi, Sys=87.1Mi, NumGC=19"}
+{"@timestamp":"2022-03-13T22:15:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:15:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:16:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.9Mi, TotalAlloc=136.2Mi, Sys=87.1Mi, NumGC=20"}
+{"@timestamp":"2022-03-13T22:16:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:16:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:17:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.6Mi, TotalAlloc=137.8Mi, Sys=87.1Mi, NumGC=20"}
+{"@timestamp":"2022-03-13T22:17:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:17:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:18:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.9Mi, TotalAlloc=139.5Mi, Sys=87.1Mi, NumGC=21"}
+{"@timestamp":"2022-03-13T22:18:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:18:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:19:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.4Mi, TotalAlloc=142.0Mi, Sys=87.1Mi, NumGC=21"}
+{"@timestamp":"2022-03-13T22:19:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:19:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:20:33.818+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=7.8Mi, TotalAlloc=143.9Mi, Sys=87.1Mi, NumGC=22"}
+{"@timestamp":"2022-03-13T22:20:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:20:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:21:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.4Mi, TotalAlloc=145.6Mi, Sys=87.1Mi, NumGC=22"}
+{"@timestamp":"2022-03-13T22:21:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:21:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:22:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.9Mi, TotalAlloc=147.3Mi, Sys=87.1Mi, NumGC=23"}
+{"@timestamp":"2022-03-13T22:22:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:22:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:23:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.4Mi, TotalAlloc=149.7Mi, Sys=87.1Mi, NumGC=23"}
+{"@timestamp":"2022-03-13T22:23:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:23:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:24:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=7.7Mi, TotalAlloc=152.2Mi, Sys=87.1Mi, NumGC=24"}
+{"@timestamp":"2022-03-13T22:24:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:24:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:25:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=10.9Mi, TotalAlloc=155.4Mi, Sys=87.1Mi, NumGC=24"}
+{"@timestamp":"2022-03-13T22:25:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:25:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:26:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.8Mi, TotalAlloc=158.8Mi, Sys=87.1Mi, NumGC=25"}
+{"@timestamp":"2022-03-13T22:26:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:26:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:27:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=12.3Mi, TotalAlloc=161.3Mi, Sys=87.1Mi, NumGC=25"}
+{"@timestamp":"2022-03-13T22:27:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:27:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:28:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.1Mi, TotalAlloc=163.0Mi, Sys=87.1Mi, NumGC=26"}
+{"@timestamp":"2022-03-13T22:28:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:28:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:29:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=11.5Mi, TotalAlloc=166.3Mi, Sys=87.1Mi, NumGC=26"}
+{"@timestamp":"2022-03-13T22:29:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:29:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:30:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.9Mi, TotalAlloc=168.8Mi, Sys=87.1Mi, NumGC=27"}
+{"@timestamp":"2022-03-13T22:30:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:30:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:31:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=11.4Mi, TotalAlloc=171.3Mi, Sys=87.1Mi, NumGC=27"}
+{"@timestamp":"2022-03-13T22:31:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:31:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:32:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.4Mi, TotalAlloc=173.2Mi, Sys=87.1Mi, NumGC=28"}
+{"@timestamp":"2022-03-13T22:32:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:32:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:33:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=10.8Mi, TotalAlloc=175.6Mi, Sys=87.1Mi, NumGC=28"}
+{"@timestamp":"2022-03-13T22:33:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:33:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:34:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.1Mi, TotalAlloc=177.3Mi, Sys=87.1Mi, NumGC=29"}
+{"@timestamp":"2022-03-13T22:34:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:34:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:35:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.9Mi, TotalAlloc=179.0Mi, Sys=87.1Mi, NumGC=29"}
+{"@timestamp":"2022-03-13T22:35:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:35:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:36:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.1Mi, TotalAlloc=180.7Mi, Sys=87.1Mi, NumGC=30"}
+{"@timestamp":"2022-03-13T22:36:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:36:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:37:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.8Mi, TotalAlloc=182.4Mi, Sys=87.1Mi, NumGC=30"}
+{"@timestamp":"2022-03-13T22:37:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:37:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:38:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.3Mi, TotalAlloc=184.3Mi, Sys=87.1Mi, NumGC=31"}
+{"@timestamp":"2022-03-13T22:38:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:38:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:39:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=10.0Mi, TotalAlloc=186.0Mi, Sys=87.1Mi, NumGC=31"}
+{"@timestamp":"2022-03-13T22:39:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:39:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:40:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.1Mi, TotalAlloc=187.7Mi, Sys=87.1Mi, NumGC=32"}
+{"@timestamp":"2022-03-13T22:40:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:40:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:41:33.818+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.8Mi, TotalAlloc=189.4Mi, Sys=87.1Mi, NumGC=32"}
+{"@timestamp":"2022-03-13T22:41:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:41:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:42:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.1Mi, TotalAlloc=191.1Mi, Sys=87.1Mi, NumGC=33"}
+{"@timestamp":"2022-03-13T22:42:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:42:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:43:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.8Mi, TotalAlloc=192.7Mi, Sys=87.1Mi, NumGC=33"}
+{"@timestamp":"2022-03-13T22:43:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:43:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:44:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.2Mi, TotalAlloc=194.5Mi, Sys=87.1Mi, NumGC=34"}
+{"@timestamp":"2022-03-13T22:44:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:44:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:45:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.8Mi, TotalAlloc=196.2Mi, Sys=87.1Mi, NumGC=34"}
+{"@timestamp":"2022-03-13T22:45:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:45:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:46:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.1Mi, TotalAlloc=197.9Mi, Sys=87.1Mi, NumGC=35"}
+{"@timestamp":"2022-03-13T22:46:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:46:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:47:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.8Mi, TotalAlloc=199.5Mi, Sys=87.1Mi, NumGC=35"}
+{"@timestamp":"2022-03-13T22:47:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:47:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:48:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.7Mi, TotalAlloc=202.8Mi, Sys=87.1Mi, NumGC=36"}
+{"@timestamp":"2022-03-13T22:48:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:48:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:49:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=7.6Mi, TotalAlloc=206.0Mi, Sys=87.1Mi, NumGC=37"}
+{"@timestamp":"2022-03-13T22:49:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:49:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:50:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=9.4Mi, TotalAlloc=207.8Mi, Sys=87.1Mi, NumGC=37"}
+{"@timestamp":"2022-03-13T22:50:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:50:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:51:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.8Mi, TotalAlloc=209.4Mi, Sys=87.1Mi, NumGC=38"}
+{"@timestamp":"2022-03-13T22:51:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:51:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:52:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.5Mi, TotalAlloc=211.1Mi, Sys=87.1Mi, NumGC=38"}
+{"@timestamp":"2022-03-13T22:52:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:52:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:53:33.818+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.9Mi, TotalAlloc=212.8Mi, Sys=87.1Mi, NumGC=39"}
+{"@timestamp":"2022-03-13T22:53:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:53:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:54:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.5Mi, TotalAlloc=214.5Mi, Sys=87.1Mi, NumGC=39"}
+{"@timestamp":"2022-03-13T22:54:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:54:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:55:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.1Mi, TotalAlloc=216.2Mi, Sys=87.1Mi, NumGC=40"}
+{"@timestamp":"2022-03-13T22:55:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:55:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:56:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=7.8Mi, TotalAlloc=217.9Mi, Sys=87.1Mi, NumGC=40"}
+{"@timestamp":"2022-03-13T22:56:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:56:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:57:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.8Mi, TotalAlloc=220.4Mi, Sys=87.1Mi, NumGC=41"}
+{"@timestamp":"2022-03-13T22:57:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:57:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:58:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.5Mi, TotalAlloc=222.1Mi, Sys=87.1Mi, NumGC=41"}
+{"@timestamp":"2022-03-13T22:58:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:58:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T22:59:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.8Mi, TotalAlloc=223.7Mi, Sys=87.1Mi, NumGC=42"}
+{"@timestamp":"2022-03-13T22:59:33.828+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T22:59:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T23:00:33.818+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.6Mi, TotalAlloc=225.6Mi, Sys=87.1Mi, NumGC=42"}
+{"@timestamp":"2022-03-13T23:00:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T23:00:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T23:01:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.1Mi, TotalAlloc=227.3Mi, Sys=87.1Mi, NumGC=43"}
+{"@timestamp":"2022-03-13T23:01:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T23:01:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T23:02:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.7Mi, TotalAlloc=229.8Mi, Sys=87.1Mi, NumGC=43"}
+{"@timestamp":"2022-03-13T23:02:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T23:02:46.910+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T23:03:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=6.9Mi, TotalAlloc=232.3Mi, Sys=87.1Mi, NumGC=44"}
+{"@timestamp":"2022-03-13T23:03:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
+{"@timestamp":"2022-03-13T23:03:46.909+08","level":"stat","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2022-03-13T23:04:33.819+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=8.6Mi, TotalAlloc=234.0Mi, Sys=87.1Mi, NumGC=44"}
+{"@timestamp":"2022-03-13T23:04:33.827+08","level":"stat","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0"}
